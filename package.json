@@ -1,0 +1,25 @@
+{
+  "name": "sample-vulnerable-nodejs",
+  "version": "1.0.0",
+  "description": "A sample Node.js repository with known dependency vulnerabilities for testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.4",
+    "minimist": "1.2.0",
+    "@dabh/diagnostics": "^2.0.8",
+    "@rc-component/portal": "^1.1.2",
+    "@rushstack/terminal": "^0.15.2",
+    "@sequelize/mariadb": "^7.0.0-alpha.47",
+    "ajv": "6.12.2",
+    "ansi-regex": "^3.0.0",
+    "marked": "0.8.2",
+    "node-fetch": "^1.7.3",
+    "opener": "1.5.1",
+    "xmldom": "^0.5.0"
+  }
+}
+
