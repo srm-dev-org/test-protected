@@ -4,7 +4,7 @@
 
 This is a sample Node.js repository created for testing purposes. It includes dependencies with known security vulnerabilities and some code that may trigger CodeQL alerts.
 
-## Dependencies with Known Vulnerabilities
+## Dependencies with Known Vulnerabilitie
 
 - **express**: 4.16.0 (has known CVEs)
 - **lodash**: 4.17.4 (has CVE-2019-10744)
