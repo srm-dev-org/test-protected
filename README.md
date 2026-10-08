@@ -258,3 +258,12 @@ This is a sample Node.js repository created for testing purposes. It includes de
 
 - **Tag**: `v1.0.0-test-protected-20261008-120110-r1`
 - **Branch**: `main`
+
+
+---
+## Release Notes — v1.0.0-test-protected-20261008-120215-r2
+
+> Auto-generated on 2026-10-08 12:02:15 UTC (release 2/2 for repo test-protected)
+
+- **Tag**: `v1.0.0-test-protected-20261008-120215-r2`
+- **Branch**: `main`
